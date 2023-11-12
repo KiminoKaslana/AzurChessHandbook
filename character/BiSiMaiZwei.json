@@ -1,1 +1,1 @@
-{"Name":"俾斯麦Zwei","MaxHP":45,"MaxDamage":16,"MinDamage":12,"MaxAADamage":3,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":15,"Accuracy":45,"AttackRadius":7.0,"MoveRadius":3.75,"DetectRadius":5.0,"TorpedoDamage":0,"TorpedoProtectCoefficient":30,"DeployCost":4}
+{"Name":"俾斯麦Zwei","MaxHP":45,"MaxDamage":16,"MinDamage":12,"MaxAADamage":3,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":15,"Accuracy":45,"AttackRadius":7.0,"MoveRadius":3.44999981,"DetectRadius":4.0,"TorpedoDamage":0,"TorpedoProtectCoefficient":30,"DeployCost":4}

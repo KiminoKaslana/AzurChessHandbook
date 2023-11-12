@@ -1,1 +1,1 @@
-{"Name":"罗马","MaxHP":45,"MaxDamage":16,"MinDamage":8,"MaxAADamage":6,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":30,"Accuracy":35,"AttackRadius":9.0,"MoveRadius":4.25,"DetectRadius":6.0,"TorpedoDamage":0,"TorpedoProtectCoefficient":20,"DeployCost":4}
+{"Name":"罗马","MaxHP":45,"MaxDamage":16,"MinDamage":8,"MaxAADamage":6,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":30,"Accuracy":35,"AttackRadius":9.0,"MoveRadius":3.91,"DetectRadius":4.8,"TorpedoDamage":0,"TorpedoProtectCoefficient":20,"DeployCost":4}

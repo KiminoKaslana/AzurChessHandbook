@@ -1,1 +1,1 @@
-{"Name":"苏维埃罗西亚","MaxHP":45,"MaxDamage":16,"MinDamage":10,"MaxAADamage":3,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":20,"Accuracy":35,"AttackRadius":9.0,"MoveRadius":3.5,"DetectRadius":4.5,"TorpedoDamage":0,"TorpedoProtectCoefficient":30,"DeployCost":4}
+{"Name":"苏维埃罗西亚","MaxHP":45,"MaxDamage":16,"MinDamage":10,"MaxAADamage":3,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":20,"Accuracy":35,"AttackRadius":9.0,"MoveRadius":3.21999979,"DetectRadius":3.6,"TorpedoDamage":0,"TorpedoProtectCoefficient":30,"DeployCost":4}

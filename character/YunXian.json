@@ -1,1 +1,1 @@
-{"Name":"云仙","MaxHP":35,"MaxDamage":8,"MinDamage":5,"MaxAADamage":18,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":40,"Accuracy":55,"AttackRadius":6.0,"MoveRadius":5.25,"DetectRadius":5.5,"TorpedoDamage":18,"TorpedoProtectCoefficient":35,"DeployCost":3}
+{"Name":"云仙","MaxHP":35,"MaxDamage":8,"MinDamage":5,"MaxAADamage":18,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":40,"Accuracy":55,"AttackRadius":6.0,"MoveRadius":4.82999945,"DetectRadius":4.4,"TorpedoDamage":18,"TorpedoProtectCoefficient":35,"DeployCost":3}

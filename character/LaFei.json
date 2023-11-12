@@ -1,1 +1,1 @@
-{"Name":"拉菲","MaxHP":22,"MaxDamage":4,"MinDamage":2,"MaxAADamage":2,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":50,"Accuracy":60,"AttackRadius":3.0,"MoveRadius":7.25,"DetectRadius":4.5,"TorpedoDamage":19,"TorpedoProtectCoefficient":45,"DeployCost":2}
+{"Name":"拉菲","MaxHP":22,"MaxDamage":4,"MinDamage":2,"MaxAADamage":2,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":50,"Accuracy":60,"AttackRadius":3.0,"MoveRadius":6.67,"DetectRadius":3.6,"TorpedoDamage":19,"TorpedoProtectCoefficient":45,"DeployCost":2}

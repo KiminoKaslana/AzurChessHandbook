@@ -1,1 +1,1 @@
-{"Name":"厌战","MaxHP":45,"MaxDamage":18,"MinDamage":10,"MaxAADamage":4,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":20,"Accuracy":50,"AttackRadius":9.0,"MoveRadius":4.0,"DetectRadius":5.25,"TorpedoDamage":0,"TorpedoProtectCoefficient":5,"DeployCost":4}
+{"Name":"厌战","MaxHP":45,"MaxDamage":18,"MinDamage":10,"MaxAADamage":4,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":20,"Accuracy":50,"AttackRadius":9.0,"MoveRadius":3.68,"DetectRadius":4.2,"TorpedoDamage":0,"TorpedoProtectCoefficient":5,"DeployCost":4}

@@ -1,1 +1,1 @@
-{"Name":"鞍山","MaxHP":20,"MaxDamage":12,"MinDamage":5,"MaxAADamage":8,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":50,"Accuracy":100,"AttackRadius":10.0,"MoveRadius":9.0,"DetectRadius":10.5,"TorpedoDamage":0,"TorpedoProtectCoefficient":70,"DeployCost":5}
+{"Name":"鞍山","MaxHP":20,"MaxDamage":12,"MinDamage":5,"MaxAADamage":8,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":50,"Accuracy":100,"AttackRadius":10.0,"MoveRadius":8.28,"DetectRadius":8.4,"TorpedoDamage":0,"TorpedoProtectCoefficient":70,"DeployCost":5}

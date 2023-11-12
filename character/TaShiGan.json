@@ -1,1 +1,1 @@
-{"Name":"塔什干","MaxHP":25,"MaxDamage":4,"MinDamage":3,"MaxAADamage":5,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":45,"Accuracy":45,"AttackRadius":3.0,"MoveRadius":7.75,"DetectRadius":4.5,"TorpedoDamage":16,"TorpedoProtectCoefficient":60,"DeployCost":2}
+{"Name":"塔什干","MaxHP":25,"MaxDamage":4,"MinDamage":3,"MaxAADamage":5,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":45,"Accuracy":45,"AttackRadius":3.0,"MoveRadius":7.12999964,"DetectRadius":3.6,"TorpedoDamage":16,"TorpedoProtectCoefficient":60,"DeployCost":2}

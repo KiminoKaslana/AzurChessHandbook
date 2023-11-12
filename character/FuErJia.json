@@ -1,1 +1,1 @@
-{"Name":"伏尔加","MaxHP":40,"MaxDamage":18,"MinDamage":1,"MaxAADamage":6,"ChildAircraftHP":20,"ChildAircraftServerTime":3,"MissRate":35,"Accuracy":100,"AttackRadius":15.0,"MoveRadius":5.5,"DetectRadius":6.25,"TorpedoDamage":0,"TorpedoProtectCoefficient":15,"DeployCost":6}
+{"Name":"伏尔加","MaxHP":40,"MaxDamage":18,"MinDamage":1,"MaxAADamage":6,"ChildAircraftHP":20,"ChildAircraftServerTime":3,"MissRate":35,"Accuracy":100,"AttackRadius":15.0,"MoveRadius":5.06,"DetectRadius":5.0,"TorpedoDamage":0,"TorpedoProtectCoefficient":15,"DeployCost":6}

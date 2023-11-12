@@ -1,1 +1,1 @@
-{"Name":"企业","MaxHP":35,"MaxDamage":10,"MinDamage":4,"MaxAADamage":14,"ChildAircraftHP":18,"ChildAircraftServerTime":2,"MissRate":60,"Accuracy":100,"AttackRadius":16.0,"MoveRadius":4.75,"DetectRadius":5.5,"TorpedoDamage":0,"TorpedoProtectCoefficient":35,"DeployCost":6}
+{"Name":"企业","MaxHP":35,"MaxDamage":10,"MinDamage":4,"MaxAADamage":14,"ChildAircraftHP":18,"ChildAircraftServerTime":2,"MissRate":60,"Accuracy":100,"AttackRadius":16.0,"MoveRadius":4.37,"DetectRadius":4.4,"TorpedoDamage":0,"TorpedoProtectCoefficient":35,"DeployCost":6}

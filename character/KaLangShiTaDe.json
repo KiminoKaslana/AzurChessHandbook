@@ -1,1 +1,1 @@
-{"Name":"喀琅施塔得","MaxHP":40,"MaxDamage":12,"MinDamage":8,"MaxAADamage":12,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":35,"Accuracy":60,"AttackRadius":8.0,"MoveRadius":5.25,"DetectRadius":6.0,"TorpedoDamage":0,"TorpedoProtectCoefficient":30,"DeployCost":3}
+{"Name":"喀琅施塔得","MaxHP":40,"MaxDamage":12,"MinDamage":8,"MaxAADamage":12,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":35,"Accuracy":60,"AttackRadius":8.0,"MoveRadius":4.82999945,"DetectRadius":4.8,"TorpedoDamage":0,"TorpedoProtectCoefficient":30,"DeployCost":3}

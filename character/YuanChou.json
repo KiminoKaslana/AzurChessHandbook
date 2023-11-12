@@ -1,1 +1,1 @@
-{"Name":"怨仇","MaxHP":45,"MaxDamage":14,"MinDamage":8,"MaxAADamage":15,"ChildAircraftHP":12,"ChildAircraftServerTime":3,"MissRate":25,"Accuracy":100,"AttackRadius":18.0,"MoveRadius":4.0,"DetectRadius":5.25,"TorpedoDamage":0,"TorpedoProtectCoefficient":5,"DeployCost":6}
+{"Name":"怨仇","MaxHP":45,"MaxDamage":14,"MinDamage":8,"MaxAADamage":15,"ChildAircraftHP":12,"ChildAircraftServerTime":3,"MissRate":25,"Accuracy":100,"AttackRadius":18.0,"MoveRadius":3.68,"DetectRadius":4.2,"TorpedoDamage":0,"TorpedoProtectCoefficient":5,"DeployCost":6}

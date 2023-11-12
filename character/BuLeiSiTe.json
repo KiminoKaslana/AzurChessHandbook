@@ -1,1 +1,1 @@
-{"Name":"布雷斯特","MaxHP":40,"MaxDamage":12,"MinDamage":8,"MaxAADamage":7,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":35,"Accuracy":55,"AttackRadius":8.0,"MoveRadius":5.5,"DetectRadius":5.75,"TorpedoDamage":0,"TorpedoProtectCoefficient":30,"DeployCost":3}
+{"Name":"布雷斯特","MaxHP":40,"MaxDamage":12,"MinDamage":8,"MaxAADamage":7,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":35,"Accuracy":55,"AttackRadius":8.0,"MoveRadius":5.06,"DetectRadius":4.6,"TorpedoDamage":0,"TorpedoProtectCoefficient":30,"DeployCost":3}

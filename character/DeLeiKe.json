@@ -1,1 +1,1 @@
-{"Name":"德雷克","MaxHP":38,"MaxDamage":11,"MinDamage":7,"MaxAADamage":12,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":40,"Accuracy":70,"AttackRadius":6.0,"MoveRadius":5.25,"DetectRadius":6.5,"TorpedoDamage":16,"TorpedoProtectCoefficient":40,"DeployCost":3}
+{"Name":"德雷克","MaxHP":38,"MaxDamage":11,"MinDamage":7,"MaxAADamage":12,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":40,"Accuracy":70,"AttackRadius":6.0,"MoveRadius":4.82999945,"DetectRadius":5.2,"TorpedoDamage":16,"TorpedoProtectCoefficient":40,"DeployCost":3}

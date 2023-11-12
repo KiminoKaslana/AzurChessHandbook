@@ -1,1 +1,1 @@
-{"Name":"莫里","MaxHP":20,"MaxDamage":3,"MinDamage":1,"MaxAADamage":2,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":50,"Accuracy":55,"AttackRadius":3.0,"MoveRadius":7.5,"DetectRadius":4.5,"TorpedoDamage":17,"TorpedoProtectCoefficient":45,"DeployCost":2}
+{"Name":"莫里","MaxHP":20,"MaxDamage":3,"MinDamage":1,"MaxAADamage":2,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":50,"Accuracy":55,"AttackRadius":3.0,"MoveRadius":6.89999962,"DetectRadius":3.6,"TorpedoDamage":17,"TorpedoProtectCoefficient":45,"DeployCost":2}
