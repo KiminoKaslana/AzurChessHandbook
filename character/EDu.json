@@ -1,0 +1,1 @@
+{"Name":"恶毒","MaxHP":25,"MaxDamage":4,"MinDamage":3,"MaxAADamage":1,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":45,"Accuracy":50,"AttackRadius":3.0,"MoveRadius":8.5,"DetectRadius":5.5,"TorpedoDamage":18,"TorpedoProtectCoefficient":40,"DeployCost":2}

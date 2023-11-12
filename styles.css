@@ -1,0 +1,72 @@
+@font-face {
+  font-family: 源流明体;
+  src: url("GenRyuMinTW-Heavy.ttf");
+}
+
+h1{
+  font-family: "源流明体";
+}
+
+body {
+  background-image: url('BG.jpg');
+  background-attachment: fixed; /* 让背景图片固定不动 */
+  background-size: cover; /* 适应整个视口 */
+}
+
+#logo {
+  display: block;
+  object-fit: contain;
+  margin: 30px auto;
+  width: 40%;
+  max-width: 250px;
+}
+
+#card-container {
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 50px;
+  padding: 120px;
+}
+
+.character-card {
+  padding: 30px 80px;
+  margin: auto;
+  display: flex;
+  border-image-source: url("SF\ Window.png");
+  border-image-slice: 110 155 fill;
+  border-image-width: 50px;
+  border-image-repeat: stretch;
+  border-image-outset: 20px 10px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 50px;
+}
+
+.cover {
+  margin: auto;
+  max-width: 155px;
+  border-radius: 20px;
+  border: solid 2px #6cf;
+  object-fit: contain;
+  background-image: linear-gradient(45deg, #2289ff80, #acffee80);
+  box-shadow: 5px 5px 5px #0000005d;
+}
+
+.text-area {
+  font-family: "源流明体";
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 200px;
+  color: white;
+  text-shadow: 2px 2px 2px #0000005d;
+}
+
+.text-line {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-between;
+}

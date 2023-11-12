@@ -1,0 +1,1 @@
+{"Name":"天鹰","MaxHP":40,"MaxDamage":16,"MinDamage":2,"MaxAADamage":7,"ChildAircraftHP":18,"ChildAircraftServerTime":3,"MissRate":35,"Accuracy":100,"AttackRadius":12.0,"MoveRadius":4.75,"DetectRadius":5.0,"TorpedoDamage":0,"TorpedoProtectCoefficient":10,"DeployCost":6}

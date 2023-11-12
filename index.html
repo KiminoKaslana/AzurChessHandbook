@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>AzurChess - 角色图鉴</title>
+    <link rel="icon" href="Icon.png">
+    <link rel="stylesheet" type="text/css" href="styles.css"> <!-- 引用外部样式表 -->
+</head>
+
+<body>
+    <img id="logo" src="Logo.png" alt="AzurChess Logo">
+
+    <div class="character-card" style="justify-content: center; margin: 0 10%;">
+        <h1 style="display: block; color: white;">角色图鉴</h1>
+    </div>
+    
+    <div id="card-container"></div>
+
+    <script>
+        const characterContainer = document.getElementById("card-container");
+
+        // 发起异步请求加载JSON文件
+        async function loadCharacterData() {
+            const response = await fetch("character_files.json");
+            const characters = await response.json();
+
+            characters.files.forEach(async characterFileName => {
+                let characterJsonFile = await fetch(`character/${characterFileName}`);
+                let character = await characterJsonFile.json();
+
+                characterContainer.innerHTML += `
+            <div class="character-card">
+                <img src="characterImage/Cover/${characterFileName.replace(".json","").toLowerCase()}.png" class="cover"></img>
+                <div class="text-area">
+                    <p style="font-weight: bold; font-size: larger;">${character.Name}</p>
+                    <div class="text-line">
+                        <span>最大生命值：</span>
+                        <span>${character.MaxHP}</span>
+                    </div>
+                    <div class="text-line">
+                        <span>伤害区间：</span>
+                        <div style="display: flex; flex-direction: row;">
+                            <span>${character.MinDamage}</span>
+                            <span>&nbsp;-&nbsp;</span>
+                            <span>${character.MaxDamage}</span>
+                        </div>
+                    </div>
+                    <div class="text-line">
+                        <span>最大防空伤害：</span>
+                        <span>${character.MaxAADamage}</span>
+                    </div>
+                    <div class="text-line">
+                        <span>舰载机生命值：</span>
+                        <span>${character.ChildAircraftHP}</span>
+                    </div>
+                    <div class="text-line">
+                        <span>舰载机整备时间：</span>
+                        <div style="display: flex; flex-direction: row;">
+                           <span>${character.ChildAircraftServerTime}</span>
+                           <span>回合</span>
+                        </div>
+                    </div>
+                    <div class="text-line">
+                        <span>闪避：</span>
+                        <span>${character.MissRate}</span>
+                    </div>
+                    <div class="text-line">
+                        <span>命中：</span>
+                        <span>${character.Accuracy}</span>
+                    </div>
+                    <div class="text-line">
+                        <span>最大攻击距离：</span>
+                        <span>${character.AttackRadius}</span>
+                    </div>
+                    <div class="text-line">
+                        <span>机动范围：</span>
+                        <span>${character.MoveRadius.toFixed(1)}</span>
+                    </div>
+                    <div class="text-line">
+                        <span>侦查范围：</span>
+                        <span>${character.DetectRadius.toFixed(1)}</span>
+                    </div>
+                    <div class="text-line">
+                        <span>雷击伤害：</span>
+                        <span>${character.TorpedoDamage}</span>
+                    </div>
+                    <div class="text-line">
+                        <span>防雷系数：</span>
+                        <span>${character.TorpedoProtectCoefficient}</span>
+                    </div>
+                    <div class="text-line">
+                        <span>部署费用：</span>
+                        <span>${character.DeployCost}</span>
+                    </div>
+                </div>
+            </div>
+            `
+            });
+        }
+
+        loadCharacterData();
+    </script>
+</body>
+
+</html>

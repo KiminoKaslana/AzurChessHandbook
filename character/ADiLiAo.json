@@ -1,0 +1,17 @@
+{
+    "Name": "阿蒂利奥·雷戈洛",
+    "MaxHP": 20,
+    "MaxDamage": 6,
+    "MinDamage": 4,
+    "MaxAADamage": 2,
+    "ChildAircraftHP": 0,
+    "ChildAircraftServerTime": 3,
+    "MissRate": 85,
+    "Accuracy": 65,
+    "AttackRadius": 4.0,
+    "MoveRadius": 8.0,
+    "DetectRadius": 6.0,
+    "TorpedoDamage": 14,
+    "TorpedoProtectCoefficient": 60,
+    "DeployCost": 2
+}
