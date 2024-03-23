@@ -1,0 +1,21 @@
+{
+  "Name": "JiYi",
+  "MaxHP": 45,
+  "MaxDamage": 16,
+  "MinDamage": 10,
+  "MaxAADamage": 3,
+  "ChildAircraftHP": 0,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 40,
+  "Accuracy": 30,
+  "CriticalProbability": 1,
+  "AttackRadius": 8.0,
+  "MoveRadius": 4,
+  "DetectRadius": 4.5,
+  "TorpedoDamage": 0,
+  "TorpedoProtectCoefficient": 35,
+  "DeployCost": 4,
+  "Type": 1,
+  "AssetPath": "japan",
+  "SkillType": 12
+}

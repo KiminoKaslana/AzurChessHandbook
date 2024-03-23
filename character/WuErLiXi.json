@@ -1,0 +1,21 @@
+{
+  "Name": "WuErLiXi",
+  "MaxHP": 46,
+  "MaxDamage": 17,
+  "MinDamage": 10,
+  "MaxAADamage": 8,
+  "ChildAircraftHP": 0,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 25,
+  "Accuracy": 25,
+  "CriticalProbability": 1,
+  "AttackRadius": 8.0,
+  "MoveRadius": 4,
+  "DetectRadius": 4.5,
+  "TorpedoDamage": 0,
+  "TorpedoProtectCoefficient": 25,
+  "DeployCost": 4,
+  "Type": 1,
+  "AssetPath": "germany",
+  "SkillType": 12
+}

@@ -1,1 +1,21 @@
-{"Name":"大凤","MaxHP":40,"MaxDamage":18,"MinDamage":3,"MaxAADamage":7,"ChildAircraftHP":20,"ChildAircraftServerTime":3,"MissRate":35,"Accuracy":100,"AttackRadius":18.0,"MoveRadius":3.91,"DetectRadius":4.2,"TorpedoDamage":0,"TorpedoProtectCoefficient":0,"DeployCost":6}
+{
+  "Name": "DaFeng",
+  "MaxHP": 42,
+  "MaxDamage": 20,
+  "MinDamage": 3,
+  "MaxAADamage": 7,
+  "ChildAircraftHP": 25,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 35,
+  "Accuracy": 100,
+  "CriticalProbability": 1,
+  "AttackRadius": 18.0,
+  "MoveRadius": 5,
+  "DetectRadius": 5.25,
+  "TorpedoDamage": 0,
+  "TorpedoProtectCoefficient": 0,
+  "DeployCost": 6,
+  "Type": 4,
+  "AssetPath": "Japan",
+  "SkillType": 11
+}

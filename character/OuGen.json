@@ -1,0 +1,21 @@
+{
+  "Name": "OuGen",
+  "MaxHP": 41,
+  "MaxDamage": 7,
+  "MinDamage": 7,
+  "MaxAADamage": 10,
+  "ChildAircraftHP": 0,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 40,
+  "Accuracy": 40,
+  "CriticalProbability": 1,
+  "AttackRadius": 5.0,
+  "MoveRadius": 5,
+  "DetectRadius": 5.5,
+  "TorpedoDamage": 10,
+  "TorpedoProtectCoefficient": 45,
+  "DeployCost": 3,
+  "Type": 2,
+  "AssetPath": "germany",
+  "SkillType": 10
+}

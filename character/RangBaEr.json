@@ -1,1 +1,21 @@
-{"Name":"让巴尔","MaxHP":45,"MaxDamage":15,"MinDamage":8,"MaxAADamage":10,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":28,"Accuracy":35,"AttackRadius":8.0,"MoveRadius":4.14,"DetectRadius":4.8,"TorpedoDamage":0,"TorpedoProtectCoefficient":10,"DeployCost":4}
+{
+  "Name": "RangBaEr",
+  "MaxHP": 45,
+  "MaxDamage": 15,
+  "MinDamage": 8,
+  "MaxAADamage": 10,
+  "ChildAircraftHP": 0,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 28,
+  "Accuracy": 35,
+  "CriticalProbability": 1,
+  "AttackRadius": 7.0,
+  "MoveRadius": 4,
+  "DetectRadius": 5.0,
+  "TorpedoDamage": 0,
+  "TorpedoProtectCoefficient": 15,
+  "DeployCost": 4,
+  "Type": 1,
+  "AssetPath": "France",
+  "SkillType": 12
+}

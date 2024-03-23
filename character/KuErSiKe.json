@@ -1,0 +1,21 @@
+{
+  "Name": "KuErSiKe",
+  "MaxHP": 35,
+  "MaxDamage": 8,
+  "MinDamage": 4,
+  "MaxAADamage": 10,
+  "ChildAircraftHP": 0,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 35,
+  "Accuracy": 45,
+  "CriticalProbability": 1,
+  "AttackRadius": 6.0,
+  "MoveRadius": 5,
+  "DetectRadius": 5.5,
+  "TorpedoDamage": 14,
+  "TorpedoProtectCoefficient": 35,
+  "DeployCost": 3,
+  "Type": 2,
+  "AssetPath": "russia",
+  "SkillType": 10
+}

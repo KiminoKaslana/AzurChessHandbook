@@ -1,1 +1,21 @@
-{"Name":"契卡洛夫","MaxHP":40,"MaxDamage":12,"MinDamage":8,"MaxAADamage":5,"ChildAircraftHP":15,"ChildAircraftServerTime":3,"MissRate":30,"Accuracy":100,"AttackRadius":18.0,"MoveRadius":4.6,"DetectRadius":4.4,"TorpedoDamage":0,"TorpedoProtectCoefficient":5,"DeployCost":6}
+{
+  "Name": "QiKaLuoFu",
+  "MaxHP": 43,
+  "MaxDamage": 12,
+  "MinDamage": 8,
+  "MaxAADamage": 7,
+  "ChildAircraftHP": 20,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 30,
+  "Accuracy": 100,
+  "CriticalProbability": 1,
+  "AttackRadius": 14.0,
+  "MoveRadius": 5,
+  "DetectRadius": 5.5,
+  "TorpedoDamage": 0,
+  "TorpedoProtectCoefficient": 15,
+  "DeployCost": 6,
+  "Type": 4,
+  "AssetPath": "Russia",
+  "SkillType": 11
+}

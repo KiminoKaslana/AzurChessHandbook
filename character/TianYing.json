@@ -1,1 +1,21 @@
-{"Name":"天鹰","MaxHP":40,"MaxDamage":16,"MinDamage":2,"MaxAADamage":7,"ChildAircraftHP":18,"ChildAircraftServerTime":3,"MissRate":35,"Accuracy":100,"AttackRadius":12.0,"MoveRadius":4.37,"DetectRadius":4.0,"TorpedoDamage":0,"TorpedoProtectCoefficient":10,"DeployCost":6}
+{
+  "Name": "TianYing",
+  "MaxHP": 40,
+  "MaxDamage": 16,
+  "MinDamage": 2,
+  "MaxAADamage": 8,
+  "ChildAircraftHP": 31,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 40,
+  "Accuracy": 100,
+  "CriticalProbability": 1,
+  "AttackRadius": 14.0,
+  "MoveRadius": 5,
+  "DetectRadius": 5.0,
+  "TorpedoDamage": 0,
+  "TorpedoProtectCoefficient": 20,
+  "DeployCost": 6,
+  "Type": 4,
+  "AssetPath": "Italy",
+  "SkillType": 11
+}

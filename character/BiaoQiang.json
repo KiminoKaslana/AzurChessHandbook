@@ -1,1 +1,21 @@
-{"Name":"标枪","MaxHP":20,"MaxDamage":3,"MinDamage":1,"MaxAADamage":1,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":50,"Accuracy":45,"AttackRadius":3.0,"MoveRadius":7.36,"DetectRadius":3.4,"TorpedoDamage":18,"TorpedoProtectCoefficient":45,"DeployCost":2}
+{
+  "Name": "BiaoQiang",
+  "MaxHP": 25,
+  "MaxDamage": 5,
+  "MinDamage": 1,
+  "MaxAADamage": 2,
+  "ChildAircraftHP": 0,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 55,
+  "Accuracy": 45,
+  "CriticalProbability": 1,
+  "AttackRadius": 3.0,
+  "MoveRadius": 8,
+  "DetectRadius": 4.25,
+  "TorpedoDamage": 18,
+  "TorpedoProtectCoefficient": 45,
+  "DeployCost": 2,
+  "Type": 6,
+  "AssetPath": "England",
+  "SkillType": 13
+}

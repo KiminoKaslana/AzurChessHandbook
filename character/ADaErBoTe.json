@@ -1,0 +1,21 @@
+{
+  "Name": "ADaErBoTe",
+  "MaxHP": 38,
+  "MaxDamage": 8,
+  "MinDamage": 6,
+  "MaxAADamage": 28,
+  "ChildAircraftHP": 0,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 35,
+  "Accuracy": 45,
+  "CriticalProbability": 1,
+  "AttackRadius": 5.0,
+  "MoveRadius": 5,
+  "DetectRadius": 5.75,
+  "TorpedoDamage": 14,
+  "TorpedoProtectCoefficient": 20,
+  "DeployCost": 3,
+  "Type": 2,
+  "AssetPath": "germany",
+  "SkillType": 10
+}

@@ -1,1 +1,21 @@
-{"Name":"前卫","MaxHP":45,"MaxDamage":15,"MinDamage":12,"MaxAADamage":18,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":25,"Accuracy":60,"AttackRadius":8.0,"MoveRadius":4.14,"DetectRadius":4.8,"TorpedoDamage":0,"TorpedoProtectCoefficient":15,"DeployCost":4}
+{
+  "Name": "QianWei",
+  "MaxHP": 45,
+  "MaxDamage": 15,
+  "MinDamage": 12,
+  "MaxAADamage": 18,
+  "ChildAircraftHP": 0,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 25,
+  "Accuracy": 60,
+  "CriticalProbability": 1,
+  "AttackRadius": 7.0,
+  "MoveRadius": 4,
+  "DetectRadius": 5.0,
+  "TorpedoDamage": 0,
+  "TorpedoProtectCoefficient": 15,
+  "DeployCost": 4,
+  "Type": 1,
+  "AssetPath": "England",
+  "SkillType": 12
+}

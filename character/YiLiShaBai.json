@@ -1,0 +1,21 @@
+{
+  "Name": "YiLiShaBai",
+  "MaxHP": 45,
+  "MaxDamage": 22,
+  "MinDamage": 8,
+  "MaxAADamage": 0,
+  "ChildAircraftHP": 0,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 40,
+  "Accuracy": 20,
+  "CriticalProbability": 1,
+  "AttackRadius": 7.0,
+  "MoveRadius": 4,
+  "DetectRadius": 4.5,
+  "TorpedoDamage": 0,
+  "TorpedoProtectCoefficient": 20,
+  "DeployCost": 4,
+  "Type": 1,
+  "AssetPath": "england",
+  "SkillType": 12
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "JiFu",
+  "MaxHP": 22,
+  "MaxDamage": 4,
+  "MinDamage": 2,
+  "MaxAADamage": 3,
+  "ChildAircraftHP": 0,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 50,
+  "Accuracy": 50,
+  "CriticalProbability": 1,
+  "AttackRadius": 2.0,
+  "MoveRadius": 7,
+  "DetectRadius": 4.75,
+  "TorpedoDamage": 18,
+  "TorpedoProtectCoefficient": 50,
+  "DeployCost": 2,
+  "Type": 6,
+  "AssetPath": "russia",
+  "SkillType": 13
+}

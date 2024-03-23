@@ -1,1 +1,21 @@
-{"Name":"奥古斯特·冯·帕塞瓦尔 ","MaxHP":40,"MaxDamage":18,"MinDamage":5,"MaxAADamage":12,"ChildAircraftHP":18,"ChildAircraftServerTime":3,"MissRate":30,"Accuracy":100,"AttackRadius":12.0,"MoveRadius":3.68,"DetectRadius":4.4,"TorpedoDamage":0,"TorpedoProtectCoefficient":10,"DeployCost":6}
+{
+  "Name": "AoGuSiTe",
+  "MaxHP": 42,
+  "MaxDamage": 20,
+  "MinDamage": 1,
+  "MaxAADamage": 12,
+  "ChildAircraftHP": 23,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 35,
+  "Accuracy": 100,
+  "CriticalProbability": 1,
+  "AttackRadius": 18.0,
+  "MoveRadius": 5,
+  "DetectRadius": 5.0,
+  "TorpedoDamage": 0,
+  "TorpedoProtectCoefficient": 10,
+  "DeployCost": 6,
+  "Type": 4,
+  "AssetPath": "Germany",
+  "SkillType": 11
+}

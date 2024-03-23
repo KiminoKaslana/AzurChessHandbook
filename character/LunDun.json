@@ -1,0 +1,21 @@
+{
+  "Name": "LunDun",
+  "MaxHP": 36,
+  "MaxDamage": 8,
+  "MinDamage": 4,
+  "MaxAADamage": 20,
+  "ChildAircraftHP": 0,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 35,
+  "Accuracy": 70,
+  "CriticalProbability": 1,
+  "AttackRadius": 5.0,
+  "MoveRadius": 5,
+  "DetectRadius": 5.0,
+  "TorpedoDamage": 13,
+  "TorpedoProtectCoefficient": 50,
+  "DeployCost": 3,
+  "Type": 2,
+  "AssetPath": "england",
+  "SkillType": 10
+}

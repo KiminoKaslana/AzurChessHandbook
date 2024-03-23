@@ -1,1 +1,21 @@
-{"Name":"帝国","MaxHP":40,"MaxDamage":14,"MinDamage":2,"MaxAADamage":4,"ChildAircraftHP":30,"ChildAircraftServerTime":3,"MissRate":35,"Accuracy":100,"AttackRadius":10.0,"MoveRadius":4.6,"DetectRadius":4.0,"TorpedoDamage":0,"TorpedoProtectCoefficient":5,"DeployCost":6}
+{
+  "Name": "DiGuo",
+  "MaxHP": 43,
+  "MaxDamage": 12,
+  "MinDamage": 6,
+  "MaxAADamage": 5,
+  "ChildAircraftHP": 35,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 40,
+  "Accuracy": 100,
+  "CriticalProbability": 1,
+  "AttackRadius": 12.0,
+  "MoveRadius": 5,
+  "DetectRadius": 5.0,
+  "TorpedoDamage": 0,
+  "TorpedoProtectCoefficient": 15,
+  "DeployCost": 6,
+  "Type": 4,
+  "AssetPath": "Italy",
+  "SkillType": 11
+}

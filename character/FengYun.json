@@ -1,0 +1,21 @@
+{
+  "Name": "FengYun",
+  "MaxHP": 21,
+  "MaxDamage": 5,
+  "MinDamage": 1,
+  "MaxAADamage": 6,
+  "ChildAircraftHP": 0,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 50,
+  "Accuracy": 70,
+  "CriticalProbability": 1,
+  "AttackRadius": 2.0,
+  "MoveRadius": 7,
+  "DetectRadius": 5.0,
+  "TorpedoDamage": 16,
+  "TorpedoProtectCoefficient": 60,
+  "DeployCost": 2,
+  "Type": 6,
+  "AssetPath": "japan",
+  "SkillType": 13
+}

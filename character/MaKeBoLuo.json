@@ -1,1 +1,21 @@
-{"Name":"马可·波罗","MaxHP":45,"MaxDamage":20,"MinDamage":16,"MaxAADamage":3,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":20,"Accuracy":0,"AttackRadius":9.0,"MoveRadius":3.68,"DetectRadius":4.6,"TorpedoDamage":0,"TorpedoProtectCoefficient":30,"DeployCost":4}
+{
+  "Name": "MaKeBoLuo",
+  "MaxHP": 45,
+  "MaxDamage": 20,
+  "MinDamage": 16,
+  "MaxAADamage": 3,
+  "ChildAircraftHP": 0,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 20,
+  "Accuracy": 0,
+  "CriticalProbability": 1,
+  "AttackRadius": 8.0,
+  "MoveRadius": 4,
+  "DetectRadius": 5.0,
+  "TorpedoDamage": 0,
+  "TorpedoProtectCoefficient": 30,
+  "DeployCost": 4,
+  "Type": 1,
+  "AssetPath": "Italy",
+  "SkillType": 12
+}

@@ -1,1 +1,21 @@
-{"Name":"哈尔滨","MaxHP":30,"MaxDamage":5,"MinDamage":3,"MaxAADamage":40,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":50,"Accuracy":70,"AttackRadius":4.0,"MoveRadius":5.97999954,"DetectRadius":4.2,"TorpedoDamage":18,"TorpedoProtectCoefficient":60,"DeployCost":3}
+{
+  "Name": "HaErBin",
+  "MaxHP": 30,
+  "MaxDamage": 5,
+  "MinDamage": 3,
+  "MaxAADamage": 40,
+  "ChildAircraftHP": 0,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 55,
+  "Accuracy": 70,
+  "CriticalProbability": 1,
+  "AttackRadius": 4.0,
+  "MoveRadius": 6,
+  "DetectRadius": 6.25,
+  "TorpedoDamage": 17,
+  "TorpedoProtectCoefficient": 60,
+  "DeployCost": 3,
+  "Type": 2,
+  "AssetPath": "China",
+  "SkillType": 10
+}

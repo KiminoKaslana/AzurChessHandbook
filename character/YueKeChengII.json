@@ -1,1 +1,21 @@
-{"Name":"约克城II","MaxHP":40,"MaxDamage":18,"MinDamage":4,"MaxAADamage":18,"ChildAircraftHP":20,"ChildAircraftServerTime":3,"MissRate":35,"Accuracy":100,"AttackRadius":18.0,"MoveRadius":4.6,"DetectRadius":4.8,"TorpedoDamage":0,"TorpedoProtectCoefficient":15,"DeployCost":6}
+{
+  "Name": "YueKeChengII",
+  "MaxHP": 40,
+  "MaxDamage": 18,
+  "MinDamage": 4,
+  "MaxAADamage": 6,
+  "ChildAircraftHP": 25,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 35,
+  "Accuracy": 100,
+  "CriticalProbability": 1,
+  "AttackRadius": 18.0,
+  "MoveRadius": 5,
+  "DetectRadius": 5.0,
+  "TorpedoDamage": 0,
+  "TorpedoProtectCoefficient": 25,
+  "DeployCost": 6,
+  "Type": 4,
+  "AssetPath": "America",
+  "SkillType": 11
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "BeiErFaSiTe",
+  "MaxHP": 33,
+  "MaxDamage": 7,
+  "MinDamage": 5,
+  "MaxAADamage": 20,
+  "ChildAircraftHP": 0,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 60,
+  "Accuracy": 65,
+  "CriticalProbability": 1,
+  "AttackRadius": 4.0,
+  "MoveRadius": 6,
+  "DetectRadius": 6.75,
+  "TorpedoDamage": 18,
+  "TorpedoProtectCoefficient": 40,
+  "DeployCost": 3,
+  "Type": 2,
+  "AssetPath": "england",
+  "SkillType": 10
+}

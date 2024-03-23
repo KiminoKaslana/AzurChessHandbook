@@ -1,0 +1,21 @@
+{
+  "Name": "HaiTian",
+  "MaxHP": 33,
+  "MaxDamage": 7,
+  "MinDamage": 5,
+  "MaxAADamage": 13,
+  "ChildAircraftHP": 0,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 35,
+  "Accuracy": 60,
+  "CriticalProbability": 1,
+  "AttackRadius": 3.0,
+  "MoveRadius": 5,
+  "DetectRadius": 6.5,
+  "TorpedoDamage": 11,
+  "TorpedoProtectCoefficient": 50,
+  "DeployCost": 3,
+  "Type": 2,
+  "AssetPath": "china",
+  "SkillType": 10
+}

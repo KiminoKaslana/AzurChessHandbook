@@ -1,0 +1,21 @@
+{
+  "Name": "Z46",
+  "MaxHP": 20,
+  "MaxDamage": 2,
+  "MinDamage": 1,
+  "MaxAADamage": 10,
+  "ChildAircraftHP": 0,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 50,
+  "Accuracy": 60,
+  "CriticalProbability": 1,
+  "AttackRadius": 2.0,
+  "MoveRadius": 7,
+  "DetectRadius": 4.5,
+  "TorpedoDamage": 14,
+  "TorpedoProtectCoefficient": 60,
+  "DeployCost": 2,
+  "Type": 6,
+  "AssetPath": "germany",
+  "SkillType": 13
+}

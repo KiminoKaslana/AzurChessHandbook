@@ -1,1 +1,21 @@
-{"Name":"华甲","MaxHP":15,"MaxDamage":2,"MinDamage":1,"MaxAADamage":0,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":0,"Accuracy":100,"AttackRadius":4.0,"MoveRadius":2.3,"DetectRadius":2.0,"TorpedoDamage":0,"TorpedoProtectCoefficient":0,"DeployCost":1}
+{
+  "Name": "HuaJia",
+  "MaxHP": 15,
+  "MaxDamage": 2,
+  "MinDamage": 1,
+  "MaxAADamage": 0,
+  "ChildAircraftHP": 0,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 0,
+  "Accuracy": 100,
+  "CriticalProbability": 1,
+  "AttackRadius": 4.0,
+  "MoveRadius": 2,
+  "DetectRadius": 2.5,
+  "TorpedoDamage": 0,
+  "TorpedoProtectCoefficient": 0,
+  "DeployCost": 1,
+  "Type": 5,
+  "AssetPath": "China",
+  "SkillType": 11
+}

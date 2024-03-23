@@ -1,1 +1,21 @@
-{"Name":"信浓","MaxHP":40,"MaxDamage":18,"MinDamage":1,"MaxAADamage":4,"ChildAircraftHP":25,"ChildAircraftServerTime":3,"MissRate":25,"Accuracy":100,"AttackRadius":17.0,"MoveRadius":4.37,"DetectRadius":4.8,"TorpedoDamage":0,"TorpedoProtectCoefficient":0,"DeployCost":6}
+{
+  "Name": "XinNong",
+  "MaxHP": 45,
+  "MaxDamage": 18,
+  "MinDamage": 1,
+  "MaxAADamage": 4,
+  "ChildAircraftHP": 30,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 25,
+  "Accuracy": 100,
+  "CriticalProbability": 1,
+  "AttackRadius": 17.0,
+  "MoveRadius": 5,
+  "DetectRadius": 5.5,
+  "TorpedoDamage": 0,
+  "TorpedoProtectCoefficient": 15,
+  "DeployCost": 6,
+  "Type": 4,
+  "AssetPath": "Japan",
+  "SkillType": 11
+}

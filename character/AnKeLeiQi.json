@@ -1,1 +1,21 @@
-{"Name":"安克雷奇","MaxHP":38,"MaxDamage":10,"MinDamage":6,"MaxAADamage":20,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":35,"Accuracy":60,"AttackRadius":6.0,"MoveRadius":4.82999945,"DetectRadius":4.6,"TorpedoDamage":12,"TorpedoProtectCoefficient":35,"DeployCost":3}
+{
+  "Name": "AnKeLeiQi",
+  "MaxHP": 38,
+  "MaxDamage": 10,
+  "MinDamage": 6,
+  "MaxAADamage": 20,
+  "ChildAircraftHP": 0,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 35,
+  "Accuracy": 60,
+  "CriticalProbability": 1,
+  "AttackRadius": 5.0,
+  "MoveRadius": 5,
+  "DetectRadius": 5.75,
+  "TorpedoDamage": 12,
+  "TorpedoProtectCoefficient": 35,
+  "DeployCost": 3,
+  "Type": 2,
+  "AssetPath": "America",
+  "SkillType": 10
+}

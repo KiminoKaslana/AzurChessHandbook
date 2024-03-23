@@ -1,1 +1,21 @@
-{"Name":"绫波","MaxHP":20,"MaxDamage":2,"MinDamage":1,"MaxAADamage":1,"ChildAircraftHP":0,"ChildAircraftServerTime":3,"MissRate":40,"Accuracy":40,"AttackRadius":3.0,"MoveRadius":6.89999962,"DetectRadius":3.2,"TorpedoDamage":19,"TorpedoProtectCoefficient":60,"DeployCost":2}
+{
+  "Name": "LingBo",
+  "MaxHP": 25,
+  "MaxDamage": 2,
+  "MinDamage": 1,
+  "MaxAADamage": 2,
+  "ChildAircraftHP": 0,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 55,
+  "Accuracy": 50,
+  "CriticalProbability": 1,
+  "AttackRadius": 3.0,
+  "MoveRadius": 7,
+  "DetectRadius": 4.75,
+  "TorpedoDamage": 20,
+  "TorpedoProtectCoefficient": 60,
+  "DeployCost": 2,
+  "Type": 6,
+  "AssetPath": "Japan",
+  "SkillType": 13
+}

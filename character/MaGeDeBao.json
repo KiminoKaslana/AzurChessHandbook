@@ -1,0 +1,21 @@
+{
+  "Name": "MaGeDeBao",
+  "MaxHP": 37,
+  "MaxDamage": 8,
+  "MinDamage": 7,
+  "MaxAADamage": 25,
+  "ChildAircraftHP": 0,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 45,
+  "Accuracy": 50,
+  "CriticalProbability": 1,
+  "AttackRadius": 5.0,
+  "MoveRadius": 5,
+  "DetectRadius": 5.0,
+  "TorpedoDamage": 10,
+  "TorpedoProtectCoefficient": 40,
+  "DeployCost": 3,
+  "Type": 2,
+  "AssetPath": "germany",
+  "SkillType": 10
+}

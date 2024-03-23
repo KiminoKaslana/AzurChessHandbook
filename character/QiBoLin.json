@@ -1,1 +1,21 @@
-{"Name":"齐柏林伯爵","MaxHP":40,"MaxDamage":18,"MinDamage":4,"MaxAADamage":7,"ChildAircraftHP":17,"ChildAircraftServerTime":3,"MissRate":30,"Accuracy":100,"AttackRadius":17.0,"MoveRadius":3.91,"DetectRadius":4.4,"TorpedoDamage":0,"TorpedoProtectCoefficient":25,"DeployCost":6}
+{
+  "Name": "QiBoLin",
+  "MaxHP": 45,
+  "MaxDamage": 16,
+  "MinDamage": 8,
+  "MaxAADamage": 8,
+  "ChildAircraftHP": 22,
+  "ChildAircraftServerTime": 3,
+  "MissRate": 30,
+  "Accuracy": 100,
+  "CriticalProbability": 1,
+  "AttackRadius": 17.0,
+  "MoveRadius": 5,
+  "DetectRadius": 5.0,
+  "TorpedoDamage": 0,
+  "TorpedoProtectCoefficient": 25,
+  "DeployCost": 6,
+  "Type": 4,
+  "AssetPath": "Germany",
+  "SkillType": 11
+}
